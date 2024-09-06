@@ -6,9 +6,6 @@ Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utiliz
 
 
 
-https://github.com/PedroHGama/Weater-Previsao-tempo.git/assets/53971991/572e87e8-138b-4464-84d8-5457db401789
-
-
 ## Descrição do Projeto
 
 O Projeto Clima-App é uma aplicação web que utiliza a API OpenWeatherMap para fornecer informações status do tempo em tempo real para uma cidade específica. Os usuários podem inserir o nome da cidade na caixa de pesquisa e receberão informações atualizadas sobre o clima naquela localidade.
