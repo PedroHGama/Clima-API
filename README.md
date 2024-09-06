@@ -6,7 +6,7 @@ Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utiliz
 
 
 
-https://github.com/aureliodeboa/Clima-app/assets/53971991/572e87e8-138b-4464-84d8-5457db401789
+https://github.com/PedroHGama/Weater-Previsao-tempo.git/assets/53971991/572e87e8-138b-4464-84d8-5457db401789
 
 
 ## Descrição do Projeto
@@ -32,7 +32,7 @@ Não é necessário instalação para este projeto. Basta abrir o arquivo `index
 
 ```bash
 # Clone o repositório (caso esteja utilizando um sistema de controle de versão)
-git clone https://github.com/aureliodeboa/Clima-app.git
+git clone https://github.com/PedroHGama/Weater-Previsao-tempo.git
 
 # Navegue até o diretório do projeto
 cd nome-do-repo
