@@ -1,5 +1,5 @@
 
-# ☁️ [Projeti Clima API](https://weather-clima-api.vercel.app/)
+# ☁️ [Projeto Clima API](https://weather-clima-api.vercel.app/)
 
 Este é  o projeto Clima-App, uma página de status do tempo desenvolvida utilizando a API [OpenWeatherMap](openweathermap.org). Neste projeto, criei uma página simples e responsiva que permite aos usuários buscar a previsão do tempo de uma cidade e exibe informações como temperatura, velocidade do vento e condições do céu.
 
