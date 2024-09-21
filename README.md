@@ -26,7 +26,7 @@ Não é necessário instalação para este projeto. Basta abrir o arquivo `index
 
 ```bash
 # Clone o repositório (caso esteja utilizando um sistema de controle de versão)
-git clone https://github.com/PedroHGama/Weater-Previsao-tempo.git
+git clone https://github.com/PedroHGama/Clima-API.git 
 
 # Navegue até o diretório do projeto
 cd nome-do-repo
